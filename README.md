@@ -35,7 +35,7 @@ C#, .NET Framework ve Entity Framework kullanılarak Windows Forms arayüzüyle 
 git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 
-## 📸 Uygulama Ekran Görüntüleri
+[## 📸 Uygulama Ekran Görüntüleri
 
 ### 🔐 1. Kullanıcı Giriş Ekranı
 
@@ -71,7 +71,7 @@ git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 ### ⚙️ 9. Ayarlar Ekranı
 
-![Image](https://github.com/user-attachments/assets/f760014f-7a55-46cb-a00a-914d3ec4446b)
+![Image](https://github.com/user-attachments/assets/f760014f-7a55-46cb-a00a-914d3ec4446b)](https://github.com/Mrfelislynx/FinancialCrm/issues/1#issue-3202685801)
 
 
 
