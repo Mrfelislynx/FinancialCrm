@@ -16,7 +16,19 @@ namespace FinancialCrm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmDashboard());
+
+            FrmUser mainForm = new FrmUser();
+
+            mainForm.FormClosing += (s, e) =>
+            {
+                if (e.CloseReason == CloseReason.UserClosing)
+                {
+                    e.Cancel = true;   // Kapanmayı engelle
+                    mainForm.Hide();   // Sadece gizle
+                }
+            };
+
+            Application.Run(mainForm);
         }
     }
 }

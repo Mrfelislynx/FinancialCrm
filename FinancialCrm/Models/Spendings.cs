@@ -21,5 +21,8 @@ namespace FinancialCrm.Models
         public Nullable<int> CategoryId { get; set; }
     
         public virtual Categories Categories { get; set; }
+        public string SpendingsTitle { get; internal set; }
+        public decimal SpendingsAmount { get; internal set; }
+        public string SpendingsPeriod { get; internal set; }
     }
 }
