@@ -34,44 +34,16 @@ C#, .NET Framework ve Entity Framework kullanılarak Windows Forms arayüzüyle 
 ```bash
 git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
+![User](https://github.com/user-attachments/assets/8309629c-f145-4feb-aa0e-3d5cfc7a0a10)
+![kategori](https://github.com/user-attachments/assets/26096f76-0b49-4bf8-b627-4f7b092ce3a5)
+![Harcama](https://github.com/user-attachments/assets/9bf2957a-1868-42a1-9624-8e13ab295930)
+![Fatura](https://github.com/user-attachments/assets/c433ae32-166a-4b24-8dfe-52e833f34231)
+![Dashboard](https://github.com/user-attachments/assets/11f3883c-9890-470c-9d94-e1eb79a8d6ec)
+![bankahareketleri](https://github.com/user-attachments/assets/f0b66570-3813-4d9e-ba23-a5023561d43f)
+![Banka](https://github.com/user-attachments/assets/3494375f-7254-43b6-9dd2-06503c0125ec)
+![Ayarlar](https://github.com/user-attachments/assets/4dc00a35-a6bf-447c-8e24-951e6afb1e3e)
+![Userkayıt](https://github.com/user-attachments/assets/cdca0bb4-68d2-4fc8-ba3e-c31b2a5ff023)
 
-[## 📸 Uygulama Ekran Görüntüleri
-
-### 🔐 1. Kullanıcı Giriş Ekranı
-
-![Image](images/User.png)
-
-### 📝 2. Yeni Kullanıcı Kayıt Ekranı
-
-![Image](https://github.com/user-attachments/assets/d74b29cc-34fd-47c6-a645-1de0fa3523b6)
-
-### 🗂️ 3. Kategori Yönetimi
-
-![Image](https://github.com/user-attachments/assets/83a2fad8-9813-4c96-bea3-c132e61bbe33)
-
-### 🏦 4. Banka Bilgileri
-
-![Image](https://github.com/user-attachments/assets/f845f980-704c-4d2b-98fb-ada8ef80a836)
-
-### 📄 5. Fatura Kayıtları
-
-![Image](https://github.com/user-attachments/assets/58e0a735-783a-4389-a2e9-6ccd97c1e015)
-
-### 💸 6. Harcamalar / Giderler
-
-![Image](https://github.com/user-attachments/assets/1041e189-d2cb-42e9-886f-b56be8564c0b)
-
-### 🔁 7. Banka Hareketleri
-
-![Image](https://github.com/user-attachments/assets/789ba6fc-e3b7-4a36-929e-fffcc51a347d)
-
-### 📊 8. Dashboard - Genel Bakış
-
-![Image](https://github.com/user-attachments/assets/38048aaf-3e85-4a85-a025-3e2cc8f8cc3f)
-
-### ⚙️ 9. Ayarlar Ekranı
-
-![Image](https://github.com/user-attachments/assets/f760014f-7a55-46cb-a00a-914d3ec4446b)](https://github.com/Mrfelislynx/FinancialCrm/issues/1#issue-3202685801)
 
 
 
