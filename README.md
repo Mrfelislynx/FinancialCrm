@@ -35,34 +35,45 @@ C#, .NET Framework ve Entity Framework kullanılarak Windows Forms arayüzüyle 
 git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 
-
 ## 📸 Uygulama Ekran Görüntüleri
 
 ### 🔐 1. Kullanıcı Giriş Ekranı
-![Login](images/User.png)
+
+![Image](https://github.com/user-attachments/assets/2e872c4d-67f8-429c-8790-714738acb4b0)
 
 ### 📝 2. Yeni Kullanıcı Kayıt Ekranı
-![Register](images/Userkayıt.png)
+
+![Image](https://github.com/user-attachments/assets/d74b29cc-34fd-47c6-a645-1de0fa3523b6)
 
 ### 🗂️ 3. Kategori Yönetimi
-![Kategoriler](images/kategori.png)
+
+![Image](https://github.com/user-attachments/assets/83a2fad8-9813-4c96-bea3-c132e61bbe33)
 
 ### 🏦 4. Banka Bilgileri
-![Bankalar](images/Banka.png)
+
+![Image](https://github.com/user-attachments/assets/f845f980-704c-4d2b-98fb-ada8ef80a836)
 
 ### 📄 5. Fatura Kayıtları
-![Faturalar](images/Fatura.png)
+
+![Image](https://github.com/user-attachments/assets/58e0a735-783a-4389-a2e9-6ccd97c1e015)
 
 ### 💸 6. Harcamalar / Giderler
-![Giderler](images/Harcama.png)
+
+![Image](https://github.com/user-attachments/assets/1041e189-d2cb-42e9-886f-b56be8564c0b)
 
 ### 🔁 7. Banka Hareketleri
-![Banka Hareketleri](images/bankahareketleri.png)
+
+![Image](https://github.com/user-attachments/assets/789ba6fc-e3b7-4a36-929e-fffcc51a347d)
 
 ### 📊 8. Dashboard - Genel Bakış
-![Dashboard](images/Dashboard.png)
+
+![Image](https://github.com/user-attachments/assets/38048aaf-3e85-4a85-a025-3e2cc8f8cc3f)
 
 ### ⚙️ 9. Ayarlar Ekranı
-![Ayarlar](images/Ayarlar.png)
+
+![Image](https://github.com/user-attachments/assets/f760014f-7a55-46cb-a00a-914d3ec4446b)
+
+
+
 
 
