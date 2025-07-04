@@ -39,7 +39,7 @@ git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 ### 🔐 1. Kullanıcı Giriş Ekranı
 
-![Image](images/Kullanıcı.png)
+![Image](images/User.png)
 
 ### 📝 2. Yeni Kullanıcı Kayıt Ekranı
 
