@@ -35,6 +35,9 @@ C#, .NET Framework ve Entity Framework kullanılarak Windows Forms arayüzüyle 
 git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 
+🔐 **Kullanıcı Güvenli Girişi**
+
+<img src="images/Login.png" width="300"/>
 
 
 
