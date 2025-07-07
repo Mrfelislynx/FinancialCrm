@@ -31,13 +31,43 @@ C#, .NET Framework ve Entity Framework kullanılarak Windows Forms arayüzüyle 
 
 > Projeyi Visual Studio üzerinden açarak kolayca çalıştırabilirsiniz. SQL Server bağlantısını kontrol etmeyi unutmayın.
 
-```bash
-git clone https://github.com/Mrfelislynx/FinancialCrm.git
 
 
 🔐 **Kullanıcı Güvenli Girişi**
 
-![Login](https://raw.githubusercontent.com/Mrfelislynx/FinancialCrm/main/images/User.png)>
+![Kullanıcı giriş](images/User.png)
+
+📝 **Yeni Kullanıcı Kayıt Ekranı**
+
+![Kullanıcı kayıt](images/Userkayıt.png)
+
+📊 **Dashboard Görünümü**
+
+![Dashboard](images/Dashboard.png)
+
+🏦 **Banka Bilgileri**
+
+![Banka](images/Banka.png)
+
+📄 **Fatura Görüntüleme**
+
+![Fatura](images/Fatura.png)
+
+💸 **Harcama Kayıtları**
+
+![Harcama](images/Harcama.png)
+
+⚙️ **Ayarlar Sayfası**
+
+![Ayarlar](images/Ayarlar.png)
+
+📑 **Banka Hareketleri**
+
+![Banka hareketleri](images/bankahareketleri.png)
+
+📂 **Kategori Yönetimi**
+
+![Kategori](images/kategori.png)
 
 
 
